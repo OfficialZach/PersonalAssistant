@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answers">
+        <item>My favorite color is green.</item>
+        <item>Greetings human.</item>
+    </string-array>
+</resources>
